@@ -1,0 +1,1 @@
+This example demonstrates a common error in COBOL programs: uninitialized variables.  The program moves data into WS-AREA-1 but WS-AREA-2 is not initialized. The program may display unexpected results, especially with larger programs or more complex logic.
